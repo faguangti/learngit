@@ -4,3 +4,4 @@ git has a mutable index called stage.
 git tracks changes of file.
 github is a internet git server.
 creating a new branch is quick AND simple.
+master branch add line.
